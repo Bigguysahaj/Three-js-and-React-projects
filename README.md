@@ -2,7 +2,7 @@
 
 ## Rotating cube
 
-Current progress:- 
+### Current progress:- 
 1. Set up react envirometn with vite.
 2. Set up Three.js
 3. Understood the boilerplate code, and it's functions.
