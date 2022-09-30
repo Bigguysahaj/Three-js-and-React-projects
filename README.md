@@ -3,7 +3,7 @@
 ## Rotating cube
 
 ### Current progress:- 
-1. Set up react envirometn with vite.
+1. Set up react enviroment with vite.
 2. Set up Three.js
 3. Understood the boilerplate code, and it's functions.
 4. Animated a 3D rotating cube, using box geometry, meshNormalMaterial and Three.mesh function
