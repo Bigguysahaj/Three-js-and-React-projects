@@ -62,6 +62,7 @@
 import { useEffect } from 'react';
 
 import * as THREE from 'three';
+import { GUI } from 'dat.gui';
 
 import SceneInit from './lib/SceneInit';
 
@@ -84,6 +85,8 @@ function App() {
     // const al = new THREE.AmbientLight(0xffffff, 0.5);
     // test.scene.add(al);
     test.scene.add(boxMesh);
+
+    const gui = new GUI();
   }, []);
 
   return (
